@@ -73,7 +73,7 @@ João | 2 | 9
  
  >Teste
  
- **Emogi**
+ **Emoji**
   
   Obrigado por acompanhar 👋
  
